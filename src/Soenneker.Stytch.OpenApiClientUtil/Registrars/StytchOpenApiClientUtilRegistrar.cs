@@ -6,7 +6,7 @@ using Soenneker.Stytch.OpenApiClientUtil.Abstract;
 namespace Soenneker.Stytch.OpenApiClientUtil.Registrars;
 
 /// <summary>
-/// Registers the OpenAPI client utility for dependency injection.
+/// Registers a reusable generated client for Stytch's authentication APIs.
 /// </summary>
 public static class StytchOpenApiClientUtilRegistrar
 {
