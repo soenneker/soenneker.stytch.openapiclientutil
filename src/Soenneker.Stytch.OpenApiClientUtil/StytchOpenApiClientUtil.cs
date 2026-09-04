@@ -11,6 +11,7 @@ using Soenneker.Utils.AsyncSingleton;
 
 namespace Soenneker.Stytch.OpenApiClientUtil;
 
+/// <inheritdoc cref="IStytchOpenApiClientUtil" />
 public sealed class StytchOpenApiClientUtil : IStytchOpenApiClientUtil
 {
     private readonly AsyncSingleton<StytchOpenApiClient> _client;
