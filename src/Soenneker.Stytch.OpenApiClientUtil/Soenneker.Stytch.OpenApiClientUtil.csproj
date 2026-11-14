@@ -47,6 +47,6 @@
 
     <ItemGroup>
         <PackageReference Include="Soenneker.Stytch.HttpClients" Version="11.0.147" />
-        <PackageReference Include="Soenneker.Stytch.OpenApiClient" Version="11.0.54" />
+        <PackageReference Include="Soenneker.Stytch.OpenApiClient" Version="11.0.55" />
     </ItemGroup>
 </Project>
